@@ -1,7 +1,7 @@
 import React from "react";
 
 function App() {
-  return <div className="bg-red">App</div>;
+  return <div className="underline font-bold text-red-700">App</div>;
 }
 
 export default App;
